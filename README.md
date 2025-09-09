@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lee Matthew Higgins
 - 👀 I’m interested in Flutter, engineering, and AI-driven systems
-- 🏗️ I run an AI-centric agency focused on Dart, C, Flutter, and agentic systems
+- 🏗️ I run an AI-centric agency focused on Dart, C, Flutter, and agentic systems (www.wearemobilefirst.com)
 - 📫 Reach me on Twitter: @depthperpixel
 
 <!---
