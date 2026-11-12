@@ -6,6 +6,8 @@
 Stuff I did for fun....
 - https://www.weareaifirst.com/blog/building-dartemu-a-risc-v-system-emulator-in-dart
 - https://www.weareaifirst.com/blog/will-dart-run-doom
+- https://www.caloriesarenothing.com/
+- https://www.birdfeedgames.com/
 
 <!---
 LeeMatthewHiggins/LeeMatthewHiggins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
